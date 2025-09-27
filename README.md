@@ -9,7 +9,7 @@ I teach kids USACO and SAT.
 - [SAT](https://satsuite.collegeboard.org/sat)
   
 ## Coding
-- [Artificial Intelligence]()
+- [Artificial Intelligence](https://github.com/pokerv609/ai)
 - [Data Analysis]()
 - [html/css/javascript]()
 - [Java]()
